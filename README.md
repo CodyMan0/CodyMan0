@@ -15,8 +15,17 @@
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyMan0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hys83751952)](https://solved.ac/hys83751952)
+
+
+
+## Skills
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
 
 <!--
 **CodyMan0/CodyMan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
