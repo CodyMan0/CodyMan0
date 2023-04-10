@@ -14,10 +14,9 @@
 - 👯All of my projects are available at my portfolio website
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyMan0&show_icons=true&theme=swift)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyMan0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hys83751952)](https://solved.ac/hys83751952)
 
 <!--
 **CodyMan0/CodyMan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
