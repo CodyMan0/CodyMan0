@@ -11,7 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyMan0&show_icons=true&theme=swift)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyMan0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
