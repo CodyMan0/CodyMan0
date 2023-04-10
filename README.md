@@ -9,7 +9,10 @@
 <a href="https://www.juyoungdev.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-black?style=flat&logo=Next.js&logoColor=white"/></a>(ing~)
 
 
-
+- 🔭 I’m currently working on two side-projects, which is gachi and simplyRun 
+- 🌱 I’m currently learning server-side frameworks and Scalability-conscious system design in front-end
+- 👯All of my projects are available at my portfolio website
+</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodyMan0&show_icons=true&theme=swift)
 
