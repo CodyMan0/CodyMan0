@@ -9,9 +9,9 @@
 <a href="https://www.juyoungdev.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-black?style=flat&logo=Next.js&logoColor=white"/></a>(ing~)
 
 
-- 🔭 I’m currently working on two side-projects, which is gachi and simplyRun 
-- 🌱 I’m currently learning server-side frameworks and Scalability-conscious system design in front-end
-- 👯All of my projects are available at my portfolio website
+- 🔭 I’m currently working on two side-projects, which is gachi and simplyRun.
+- 🌱 I’m learning server-side frameworks and Scalability-conscious system design in front-end at the moment.
+- 👯All of my projects are visible at my portfolio website.
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyMan0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
