@@ -4,7 +4,7 @@
 👋 Hi! Welcome to my Github profile!
 
 
-<a href="mailto:"hys83751952@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:hys83751952@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@sharphand1" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://www.juyoungdev.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-black?style=flat&logo=Next.js&logoColor=white"/></a>(ing~)
 
