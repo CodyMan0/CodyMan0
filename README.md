@@ -1,13 +1,12 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&fontColor=000000&color=&height=200&section=header&text=Juyoung_Lee&fontSize=60) -->
 
 ### Juyoung LEE @Brian
-👋 Hi! Welcome to my Github profile!
+👋 Hi! I am **passionate** and **Self-Discipline** front-end engineer
 
 
 <a href="mailto:hys83751952@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://velog.io/@sharphand1" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://www.juyoungdev.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-black?style=flat&logo=Next.js&logoColor=white"/></a>(ing~)
-
 
 - 🔭 I’m currently working on two side-projects, which is gachi and simplyRun.
 - 🌱 I’m learning server-side frameworks(next.js and svelteKit) and Scalability-conscious system design in front-end from experiences.
