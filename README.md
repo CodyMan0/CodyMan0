@@ -8,7 +8,6 @@
 <a href="https://velog.io/@sharphand1" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <a href="https://www.juyoungdev.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-black?style=flat&logo=Next.js&logoColor=white"/></a>(ing~)
 
-- 🔭 I’m currently working on family social media service, which is called Podo.
 - 🌱 I’m learning server-side frameworks(next.js and svelteKit) and Scalability-conscious system design in front-end from experiences.
 - 👯All of my projects will be visible at my portfolio website since next month.
 </br>
