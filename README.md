@@ -3,13 +3,13 @@
 ### Juyoung LEE @Brian
 👋 Hi! I am **passionate** and **Self-Discipline** front-end engineer
 
-
-<a href="mailto:hys83751952@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://velog.io/@sharphand1" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://www.juyoungdev.com/" target="_blank"><img src="https://img.shields.io/badge/portfolio-black?style=flat&logo=Next.js&logoColor=white"/></a>(ing~)
-
+- <a href="mailto:hys83751952@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white"/></a>
+- <a href="https://velog.io/@sharphand1" target="_blank"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+- <a href="https://www.notion.so/FE-100-4f105fe60b914e078adc5adcc3c05e1f" target="_blank">RESUME</a>
 - 🌱 I’m learning server-side frameworks(next.js and svelteKit) and Scalability-conscious system design in front-end from experiences.
-- 👯All of my projects will be visible at my portfolio website since next month.
+
+- 🌱 Currently, we are creating a web service for job seekers to achieve their goals, and we completed the development of MVP on August 5.
+
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodyMan0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
