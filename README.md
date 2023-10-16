@@ -1,8 +1,8 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&fontColor=000000&color=&height=200&section=header&text=Juyoung_Lee&fontSize=60) -->
 
-### Juyoung LEE @Brian
-## 안녕하세요 적재적소에 필요한 서비스를 만들어 가치를 극대화하는 개발자 이주영입니다. 
+## 안녕하세요 이주영입니다. 
 
+- 🎯 방향성 : 기술적 겸손함을 견비하여 적재적소에 필요한 소프트웨어를 만들어 가치를 만들어내는데 기여합니다.
 - 🌱 요즘 공부중인 분야: Swift, SwiftUI, Typescript, 정보처리기사
 - 📔 블로그 : https://velog.io/@sharphand1
 - 📫 이메일 : githubCodyman0@gmail.com
