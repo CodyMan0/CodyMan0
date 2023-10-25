@@ -3,7 +3,7 @@
 ## 안녕하세요 이주영입니다. 
 
 - 🎯 방향성 : 기술적 겸손함을 견비하여 적재적소에 필요한 소프트웨어를 통해 가치를 만들어내는데 기여합니다.
-- 🌱 요즘 공부중인 분야: Swift, IOS Platform, Typescript, 정보처리기사
+- 🌱 요즘 공부중인 분야: React, Redux, Typescript, node.js, Swift, IOS Platform, 정보처리기사
 - 📔 블로그 : https://velog.io/@sharphand1
 - 📫 이메일 : githubCodyman0@gmail.com
 
