@@ -8,9 +8,8 @@
 - 📫 이메일 : githubCodyman0@gmail.com
 - 🔗 Linkedin : https://www.linkedin.com/in/brian0/
 
-## 현재 진행중인 프로젝트 (24년 1월 기준) 
-1. Essentory : 창작자들을 위한 프라이빗 커뮤니티를 만들기 위해 사이드 프로젝트를 진행하고 있습니다. 
-2. DND : 디자이너와 협업하여 일상의 불편함을 해소하는 서비스인 축의금 친밀도 테스트 기능을 포함한 서비스 구현중입니다.
+## 현재 진행중인 프로젝트 (24년 2월 기준) 
+1. DND : 디자이너와 협업하여 일상의 불편함을 해소하는 서비스인 축의금 친밀도 테스트 기능을 포함한 서비스 구현중입니다. [코드 살펴보기](https://github.com/dnd-side-project/dnd-10th-3-frontend)
 
 ## Skills
 <div>
