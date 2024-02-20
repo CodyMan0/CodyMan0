@@ -12,10 +12,7 @@
 1. DND : 디자이너와 협업하여 일상의 불편함을 해소하는 서비스인 축의금 친밀도 테스트 기능을 포함한 서비스 구현중입니다. [현재 개발중인 레포 살펴보기](https://github.com/dnd-side-project/dnd-10th-3-frontend)
 
 ## Skills
-<div>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
-
+Next.js, React.js, Typescript, React-query, Styling
 <!--
 **CodyMan0/CodyMan0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 #### 🧐 I'm interested in...
