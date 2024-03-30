@@ -8,5 +8,12 @@
 - 📫 이메일 : githubCodyman0@gmail.com
 - 🔗 Linkedin : https://www.linkedin.com/in/brian0/
 
+## Projects
+| project | description | Github |
+| --- | --- | --- |
+| 💰 돈워리 (DonWorry) | 축의금 고민 해결을 위한 커뮤니티 서비스 (Next) | [Repository](https://github.com/dnd-side-project/dnd-10th-3-frontend) |
+| 👩🏻‍💻 알리고올리고 (AligoOligo) | 취업 준비생들을 위한 목표 달성 서비스 (React) | [Repository](https://github.com/aligo-ligo/aligo-oligo-frontend-latest) |
+
+
 ## Skills
 Next.js, React.js, Typescript, React-query, Styling, Storybook
