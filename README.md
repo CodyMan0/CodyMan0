@@ -1,7 +1,7 @@
 ## 안녕하세요 이주영입니다. 
 
 - 🎯 방향성 : 기술적 겸손함을 견비하여 적재적소에 필요한 소프트웨어를 통해 가치를 만들어내는데 기여합니다.
-- 🌱 요즘 공부중인 분야: Next.js, Typesciript, React.js
+- 🌱 요즘 공부중인 분야: HTTP, HTML, React.js, Next.js
 - 📔 블로그 : https://www.danny-log.xyz/
 - 📫 이메일 : githubCodyman0@gmail.com
 - 🔗 Linkedin : https://www.linkedin.com/in/brian0/
