@@ -15,4 +15,11 @@
 
 
 ## Skills
-Next.js, React.js, Typescript, React-query, Styling, Storybook, Semantic HTML
+- 실무에서 적용해본 적이 있으며 최적화를 진행할 수 있어요.
+React.js, Typescript, React-query, Semantic HTML, Styling
+- 실무에는 적용해보았지만 최적화하기엔 부족해요.
+Next.js, Storybook, Zustand
+- 실무에서 필요해서 학습하고 결과물을 만들고 있어요. (성장중)
+Fast API, Python
+
+  
