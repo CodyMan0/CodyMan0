@@ -2,7 +2,7 @@
 
 - 🎯 방향성 : 기술을 활용하여 가치를 만들어내는데 기여하고 집중합니다.
 - 🌱 요즘 공부중인 분야: Fast API, Python, Jest, React Testing Library, eslint, webpack
-- 📔 블로그 : https://www.danny-log.xyz/
+- 📔 블로그 : https://lee2022.com/
 - 📫 이메일 : githubCodyman0@gmail.com
 - 🔗 Linkedin : https://www.linkedin.com/in/brian0/
 
