@@ -1,7 +1,7 @@
-# 소개
+## 25년 4월, 저의 방향성은 "기본기"입니다.
 
-- 🎯 방향성 : 기술을 활용하여 가치를 만들어내는데 기여하고 집중합니다.
-- 🌱 요즘 공부중인 분야: Fast API, Python, Jest, React Testing Library, eslint, webpack
+- 🎯 최근 방향성 : 유지보수에 용이한 구조는 무엇일까? 이를 위해 학습하고 적용하며 나아갑니다.
+- 🌱 요즘 공부중인 분야: FP, OOP, Next.js, Vitest
 - 📔 블로그 : https://lee2022.com/
 - 📫 이메일 : githubCodyman0@gmail.com
 - 🔗 Linkedin : https://www.linkedin.com/in/brian0/
