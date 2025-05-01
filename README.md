@@ -23,3 +23,8 @@ Next.js, Storybook, Zustand
 Fast API, Python
 
   
+
+## ✨ Recent Writing
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
