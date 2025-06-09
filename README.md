@@ -26,8 +26,8 @@ Fast API, Python
 
 ## ✨ Recent Writing
 
-- [25년 5월 회고](https://lee2022.com/blog/2025-M5)
-- [25년 4월 회고](https://lee2022.com/blog/2025-M4)
-- [25년 1분기 회고](https://lee2022.com/blog/2025-Q1)
+- [25년 5월 회고](https://www.lee2022.com/blog/25y-m5-memoir)
+- [25년 4월 회고](https://www.lee2022.com/blog/25y-m4-memoir)
+- [25년 1분기 회고](https://www.lee2022.com/blog/25y-q1-memoir)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
