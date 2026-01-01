@@ -1,7 +1,7 @@
 ## 기여하는 개발자 이주영
 
 - 🎯 최근 방향성 : 유지보수에 용이한 구조는 무엇일까? 이를 위해 학습하고 적용하며 나아갑니다.
-- 🌱 요즘 공부중인 분야: FP, OOP, Next.js, Vitest
+- 🌱 요즘 공부중인 분야: OOP, Next.js, Unit Test, AI, PRD writing
 - 📔 블로그 : https://lee2022.com/
 - 📫 이메일 : githubCodyman0@gmail.com
 - 🔗 Linkedin : https://www.linkedin.com/in/brian0/
