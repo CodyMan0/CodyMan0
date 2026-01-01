@@ -25,6 +25,7 @@ Nest.js, PostgreSQL
   
 
 ## ✨ Recent Writing
+- [25년 11월 회고](https://www.lee2022.com/blog/25y-m11-memoir)
 - [25년 10월 회고](https://www.lee2022.com/blog/25y-m10-memoir)
 - [25년 9월 회고](https://www.lee2022.com/blog/25y-m9-memoir)
 - [25년 8월 회고](https://www.lee2022.com/blog/25y-m8-memoir)
