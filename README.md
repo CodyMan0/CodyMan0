@@ -1,6 +1,6 @@
 ## 기여하는 개발자 이주영
 
-- 🎯 최근 방향성 : 유지보수에 용이한 구조는 무엇일까? 이를 위해 학습하고 적용하며 나아갑니다.
+- 🎯 최근 방향성 : 어떻게 더 기여할 수 있을까? 기여하기 위해 실행해야하는 액션 포인트가 무엇일까
 - 🌱 요즘 공부중인 분야: OOP, Next.js, Unit Test, AI, PRD writing
 - 📔 블로그 : https://lee2022.com/
 - 📫 이메일 : githubCodyman0@gmail.com
@@ -25,8 +25,7 @@ Nest.js, PostgreSQL
   
 
 ## ✨ Recent Writing
+- [26년 1월 회고](https://www.lee2022.com/blog/26y-m1-memoir)
 - [25년 11월 회고](https://www.lee2022.com/blog/25y-m11-memoir)
 - [25년 10월 회고](https://www.lee2022.com/blog/25y-m10-memoir)
-- [25년 9월 회고](https://www.lee2022.com/blog/25y-m9-memoir)
-- [25년 8월 회고](https://www.lee2022.com/blog/25y-m8-memoir)
 - [이전 회고](https://www.lee2022.com/blog)
